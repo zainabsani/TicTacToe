@@ -1,6 +1,6 @@
 package hu.unideb.inf;
 
-import hu.unideb.inf.GenericJpaDao;
+import jpa.GenericJpaDao;
 import javax.persistence.Persistence;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package hu.unideb.inf;
+package jpa;
 
 import javax.persistence.EntityManager;
 import javax.persistence.TypedQuery;

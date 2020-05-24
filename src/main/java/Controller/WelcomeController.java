@@ -1,4 +1,4 @@
-package hu.unideb.inf;
+package Controller;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

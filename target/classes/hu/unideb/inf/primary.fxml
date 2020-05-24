@@ -4,7 +4,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane prefHeight="400" prefWidth="600" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.unideb.inf.PrimaryController">
+<Pane prefHeight="400" prefWidth="600" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.PrimaryController">
    <children>
          <GridPane fx:id="gameGrid" prefHeight="350.0" prefWidth="600.0">
            <columnConstraints>

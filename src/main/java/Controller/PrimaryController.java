@@ -1,4 +1,4 @@
-package hu.unideb.inf;
+package Controller;
 import java.io.IOException;
 import java.time.Instant;
 
